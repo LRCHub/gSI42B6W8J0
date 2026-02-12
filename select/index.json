@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Before anyone else",
+  "base_artist": "HACHI",
+  "createdAt": "2026-02-12T04:01:19.746137Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Before Anyone Else",
+      "artist": "YENA",
+      "has_synced": true,
+      "path": "select/01_Before_Anyone_Else_YENA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Before Anyone Else",
+      "artist": "Yena",
+      "has_synced": true,
+      "path": "select/02_Before_Anyone_Else_Yena.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Before Anyone Else",
+      "artist": "BAE",
+      "has_synced": false,
+      "path": "select/03_Before_Anyone_Else_BAE.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hollywood Was Talking About Love Before Anyone Else Did",
+      "artist": "Jeans for Jesus",
+      "has_synced": false,
+      "path": "select/04_Hollywood_Was_Talking_About_Love_Before_Anyone_Else_Did_Jeans_for_Jesus.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Before Anyone Else",
+      "artist": "YENA (崔叡娜)",
+      "has_synced": true,
+      "path": "select/05_Before_Anyone_Else_YENA_(崔叡娜).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Before anyone else",
+      "artist": "HACHI",
+      "has_synced": false,
+      "path": "select/pl_01_Before_anyone_else_HACHI.txt"
+    }
+  ]
+}
